@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Capitulo 1 Hello", "capitulo 1\capitulo 1.vcxproj", "{B41C9BF2-2827-4E7C-9D49-0043418ACEFD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Capitulo 1 FahernheitCelsius", "Capitulo 1 FahernheitCelsius\Capitulo 1 FahernheitCelsius.vcxproj", "{63990454-0A0C-418F-8267-C8C0A36D202F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Capitulo 1 Caracter", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{9B8EC29F-F4F0-43FD-A020-F85615111604}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Capitulo 1 word", "Capitulo 1 word\Capitulo 1 word.vcxproj", "{2CD3E807-B55C-4F95-98DB-F4D2C2C322C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41C9BF2-2827-4E7C-9D49-0043418ACEFD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B41C9BF2-2827-4E7C-9D49-0043418ACEFD}.Debug|Win32.Build.0 = Debug|Win32
+		{B41C9BF2-2827-4E7C-9D49-0043418ACEFD}.Release|Win32.ActiveCfg = Release|Win32
+		{B41C9BF2-2827-4E7C-9D49-0043418ACEFD}.Release|Win32.Build.0 = Release|Win32
+		{63990454-0A0C-418F-8267-C8C0A36D202F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63990454-0A0C-418F-8267-C8C0A36D202F}.Debug|Win32.Build.0 = Debug|Win32
+		{63990454-0A0C-418F-8267-C8C0A36D202F}.Release|Win32.ActiveCfg = Release|Win32
+		{63990454-0A0C-418F-8267-C8C0A36D202F}.Release|Win32.Build.0 = Release|Win32
+		{9B8EC29F-F4F0-43FD-A020-F85615111604}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9B8EC29F-F4F0-43FD-A020-F85615111604}.Debug|Win32.Build.0 = Debug|Win32
+		{9B8EC29F-F4F0-43FD-A020-F85615111604}.Release|Win32.ActiveCfg = Release|Win32
+		{9B8EC29F-F4F0-43FD-A020-F85615111604}.Release|Win32.Build.0 = Release|Win32
+		{2CD3E807-B55C-4F95-98DB-F4D2C2C322C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2CD3E807-B55C-4F95-98DB-F4D2C2C322C1}.Debug|Win32.Build.0 = Debug|Win32
+		{2CD3E807-B55C-4F95-98DB-F4D2C2C322C1}.Release|Win32.ActiveCfg = Release|Win32
+		{2CD3E807-B55C-4F95-98DB-F4D2C2C322C1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
